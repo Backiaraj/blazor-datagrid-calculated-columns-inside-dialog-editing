@@ -1,4 +1,4 @@
-# Blazor DataGrid — Calculated Columns with Dialog Editing
+# Blazor DataGrid - Calculated Columns with Dialog Editing
 
 A sample Blazor application demonstrating how to automatically update calculated columns in the [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component when editing values through a dialog interface.
 
